@@ -12,6 +12,7 @@
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://iridescent-starlight-9254ad.netlify.app/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akram-affou-872604221/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/akraaam_9/)
+[<img align="left" alt="Instagram" width="22px" src="https://img.jsdelivr.com/github.com/interviewstreet.png" />](https://www.hackerrank.com/akramaffou)
 
 <br/>
 <hr/>
