@@ -1,6 +1,6 @@
 ### Hi there, I'm Akram 👋
 
-## MERN Stack Enthusiast | Web Developer 🚀
+## MERN Magician | Web Developer 🚀
 
 - 🔭 I’m working with MERN Stack .
 - 🌱 I’m currently interested in Nest.js, GraphQL, and WebAssembly.
